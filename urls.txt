@@ -1,0 +1,18 @@
+GitHub Repository:
+https://github.com/ezeasorekene/cdond-c3-projectstarter
+
+
+S3 Bucket URL:
+http://udapeople-794006e.s3-website-us-east-1.amazonaws.com
+
+
+CloudFront URL:
+https://dy4b5k6ia6kyu.cloudfront.net
+
+
+Backend URL:
+http://ec2-54-175-121-5.compute-1.amazonaws.com:3030
+
+
+Prometheus URL:
+http://ec2-54-175-49-194.compute-1.amazonaws.com:9090/targets
